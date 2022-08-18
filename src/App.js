@@ -1,13 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App-first">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          mi primera app en reactjs{" "}
+          <code>
+            https://triico.net/wp-content/uploads/2020/04/7-Mejores-foros-de-programadores.png
+          </code>{" "}
+          cambiando sus contenidos.
         </p>
         <a
           className="App-link"
